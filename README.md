@@ -15,18 +15,6 @@ This project was to design and implement an interactive dashboard for Madhav Sal
 • 🔢 Excel
 
 
-# Process
-
-• Dataset collected from online.
-
-• Data Cleaning & Processing in Excel and Power BI
-
-• Analyze the data
-
-• Power BI Dashboard setup
-
-• Data Visualization.
-
 
 # Dashboard Content 
 
